@@ -1,0 +1,9 @@
+* skiptrace
+
+Audits Common Lisp reader conditionals and ASDF `:if-feature` expressions, reporting impossible chains and typo-like feature names without loading or reading the audited system.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/Michael-A-Kuykendall/skiptrace.git |
+| commit  | 0000000                                                    |
+| systems | skiptrace                                                 |
+|---------+------------------------------------------------------------|
