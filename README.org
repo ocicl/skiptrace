@@ -4,6 +4,6 @@ Audits Common Lisp reader conditionals and ASDF `:if-feature` expressions, repor
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/Michael-A-Kuykendall/skiptrace.git |
-| commit  | f068ee2                                                    |
+| commit  | baeed80                                                    |
 | systems | skiptrace                                                 |
 |---------+------------------------------------------------------------|
